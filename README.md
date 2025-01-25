@@ -2,6 +2,8 @@
 
 API Archive Hub is a feature-rich application built using **Next.js** for the frontend and **TypeScript** for the backend. This project serves as a centralized hub for managing, exploring, and interacting with APIs, providing an intuitive user interface and robust backend functionality.
 
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/b787992d-61cc-4282-b947-46300f45b75e" />
+
 ## Features
 
 - **Dashboard**: Overview of all available APIs and quick access to important features.
